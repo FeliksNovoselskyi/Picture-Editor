@@ -1,0 +1,77 @@
+{
+    "app_width": 1200,
+    "app_height": 800,
+    "color_theme": "resources/themes/dark-blue.json",
+    "supported_import_types": [
+        [
+            "Image Types",
+            [
+                ".png",
+                ".jpg",
+                ".jpeg"
+            ]
+        ],
+        [
+            "PNG Images",
+            ".png"
+        ],
+        [
+            "JPG Images",
+            ".jpg"
+        ],
+        [
+            "JPEG Images",
+            ".jpeg"
+        ]
+    ],
+    "supported_export_types": [
+        [
+            "Image Types",
+            [
+                ".png",
+                ".jpg",
+                ".jpeg",
+                ".webp"
+            ]
+        ],
+        [
+            "PNG Images",
+            ".png"
+        ],
+        [
+            "JPG Images",
+            ".jpg"
+        ],
+        [
+            "JPEG Images",
+            ".jpeg"
+        ],
+        [
+            "WEBP Images",
+            ".webp"
+        ]
+    ],
+    "tools_icons": [
+        "resources/images/buttons/tools/create.png",
+        "resources/images/buttons/tools/cut.png",
+        "resources/images/buttons/tools/rotate.png",
+        "resources/images/buttons/tools/upload.png",
+        "resources/images/buttons/tools/text.png",
+        "resources/images/buttons/tools/resize.png"
+    ],
+    "filters_icons": [
+        "resources/images/buttons/filters/black_white.png",
+        "resources/images/buttons/filters/contour.png",
+        "resources/images/buttons/filters/blur.png",
+        "resources/images/buttons/filters/detail.png",
+        "resources/images/buttons/filters/edge.png",
+        "resources/images/buttons/filters/emboss.png",
+        "resources/images/buttons/filters/horror.png"
+    ],
+    "image_frame_icons": [
+        "resources/images/buttons/tools/show.png",
+        "resources/images/buttons/tools/hide.png",
+        "resources/images/buttons/tools/delete.png",
+        "resources/images/buttons/tools/save.png"
+    ]
+}
