@@ -1,4 +1,4 @@
-# Picture-Editor
+# Practice project - Picture-Editor
 
 Image Editing Applications
 
